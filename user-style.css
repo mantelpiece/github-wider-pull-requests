@@ -1,4 +1,4 @@
-@-moz-document regexp("https://github.com/.*/pull/.*") {
+@-moz-document regexp("https://github.com/.*/pull.*") {
     .container {
         width: 1400px;
     }
