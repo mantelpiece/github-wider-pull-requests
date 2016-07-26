@@ -1,6 +1,7 @@
-# Github - Wider pull requests
-==
+# Github - Wider pull requests  
+--
 A wider pull request page for [Github](www.github.com) using Stylish
+
 
 Licence (CC-BY-SA-4.0)
 --
