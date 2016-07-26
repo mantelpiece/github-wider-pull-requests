@@ -1,0 +1,14 @@
+@-moz-document regexp("https://github.com/.*/pull/.*") {
+    .container {
+        width: 1400px;
+    }
+
+    .discussion-timeline {
+        width: 1190px;
+    }
+    
+    .comment-holder {
+        width: 100%;
+        max-width: none;
+    }
+}
