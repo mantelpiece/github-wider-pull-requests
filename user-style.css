@@ -11,4 +11,18 @@
         width: 100%;
         max-width: none;
     }
+    
+    .inline-comments .inline-comment-form-container {
+        width: 100%;
+        max-width: none;
+    }
+    
+    .inline-comments .inline-comment-form {
+        width: 100%;
+        max-width: none;
+    }
+    
+    .timeline-new-comment {
+        max-width: none;
+    }
 }
